@@ -1,0 +1,6 @@
+Dados basicos
+-------------------------------------------
+Nome:
+Sobrenome:
+data de nascimento: xx/xx/xxxx
+-------------------------------------------
